@@ -17,18 +17,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </td><td valign="top" width="33%">
 
-
-
-### Design 
-  ____
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" height="50" /></a>  
-<a href="https://www.miro.com/" target="_blank"><img style="margin: 10px" src="https://files.readme.io/17d4a23-miro-logo-color-square.png" alt="Miro" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
 <br/>  
 
 ### Github Stats:
