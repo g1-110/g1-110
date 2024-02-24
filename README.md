@@ -7,8 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://linkedin.com/in/flaviiamiranda/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" target=”_blank”/>
 </a>
-<a href="https://flaviamirandaportfolio.vercel.app/" target=”_blank”><img alt="personal-website" title="Flavia Miranda Portfolio WebSite" src="https://img.shields.io/badge/-Portfolio_website-f051a1?style=for-the-badge&logo=&logoColor=white" target="_blank"/></a>
-  <br />
+<br />
 </div>  
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lakorthus.lakorthus)](https://github.com/g1-110/)
