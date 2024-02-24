@@ -14,40 +14,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lakorthus.lakorthus)](https://github.com/g1-110/)
 <a target="_blank" href="https://www.codewars.com/users/flaviagraciano"><img src="https://www.codewars.com/users/Lakorthus/badges/micro" alt="Codewars Badge" /></a>
 
-### About  
-<!-- gif Image -->
-<img src="https://i.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.webp" alt="side Image" align="right" width="260" height="auto" />
-My history with code is not a traditional one. I'm currently working as a Front-End Developer, and I've been learning to code for a year, after switching careers. I started with HTML, CSS and vanilla JavaScript, followed by a School of Code Full-Stack Bootcamp, and have really found a passion for development.  
-
-### My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-  ____
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>    
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-  ____
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/496/0*RfTXIdj0OMqSiDwC" alt="React Testing Library" height="50" /></a>  
-</div>
 
 </td><td valign="top" width="33%">
 
